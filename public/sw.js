@@ -16,6 +16,7 @@ var STATIC_FILES = [
   '/src/css/app.css',
   '/src/css/detail.css',
   '/src/css/feed.css',
+  '/src/css/offline.css',
   '/src/js/feed-det.js',
   '/src/images/main-image.jpg',
   'https://fonts.googleapis.com/css?family=Roboto:400,700',
